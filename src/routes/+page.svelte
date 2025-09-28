@@ -6,16 +6,50 @@
 	import CallToAction from "$lib/components/layout/CallToAction.svelte";
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
-	import Hero from "$lib/components/layout/hero-sections/Hero.svelte";
+	import CustomerCardHero from "$lib/components/layout/hero-sections/CustomerCardHero.svelte";
 </script>
 
-<Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+<CustomerCardHero
+	centered={true}
+	title="Transform fragmented customer interactions into unified experiences"
+	subtitle="Join thousands of contact center directors who've reduced operational costs while dramatically improving customer satisfaction with Nextiva's AI-powered platform."
+	customers={[
+		{
+			name: "Sarah Martinez",
+			position: "Contact Center Director",
+			imageSrc: "/generated/image-a-professional-woman-contact-center-dire.webp"
+		},
+		{
+			name: "Michael Chen",
+			position: "Customer Experience Manager", 
+			imageSrc: "/generated/image-a-male-customer-experience-manager-in-a-.webp"
+		},
+		{
+			name: "Jennifer Williams",
+			position: "Operations Director",
+			imageSrc: "/generated/image-a-female-operations-director-in-a-sleek-.webp"
+		},
+		{
+			name: "David Rodriguez",
+			position: "VP Customer Success",
+			imageSrc: "/generated/image-a-male-business-executive-in-a-professio.webp"
+		},
+		{
+			name: "Lisa Thompson",
+			position: "Technology Director",
+			imageSrc: "/generated/image-a-professional-woman-technology-leader-i.webp"
+		}
+	]}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/shopify.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/mailchimp.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/hubspot.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/salesforce.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating

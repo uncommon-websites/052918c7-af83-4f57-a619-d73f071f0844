@@ -11,16 +11,16 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Unified by design",
+			description: "We built our platform from the ground up to connect every customer touchpoint, because fragmented experiences serve no one."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Customer obsessed",
+			description: "Every feature we build starts with a simple question: will this make the customer's experience better?"
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Agent empowered",
+			description: "We believe great customer service comes from empowered agents who have the right context and tools to succeed."
 		}
 	];
 </script>
@@ -92,7 +92,8 @@
 
 <!-- CTA Section -->
 <CallToAction
-	title="Ready to transform your contact center?"
-	subtitle="Let's unify your customer experience"
-	description="Join the mid-market companies already using Nextiva to reduce operational costs while improving customer satisfaction through our unified AI-powered platform."
+	title="Stop switching between systems"
+	subtitle="Start delivering unified experiences"
+	description="Join 100,000+ businesses that chose Nextiva to eliminate agent context-switching, reduce customer effort, and scale exceptional service without complexity. See why contact center directors call us their competitive advantage."
+	imageSrc="/generated/image-a-professional-contact-center-agent-dres.webp"
 />

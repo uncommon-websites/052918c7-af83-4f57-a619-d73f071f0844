@@ -20,6 +20,7 @@
     "filename": "/generated/image-a-professional-woman-technology-leader-i.webp"
   },
   {
+<<<<<<< HEAD
     "prompt": "A professional African American woman, dressed in smart business attire, stands confidently in a modern office environment. The workspace features natural light, contemporary furniture, and subtle greenery. She is engaged with coworkers or reviewing documents at a sleek desk. The atmosphere is collaborative and professional, with diverse colleagues visible in the background, maintaining a vibrant and welcoming ambiance.",
     "filename": "/generated/image-a-professional-african-american-woman-dr.webp"
   },
@@ -30,5 +31,37 @@
   {
     "prompt": "A professional Asian woman, dressed in elegant business attire, stands in a sophisticated corporate environment. The space is filled with natural light, modern office furniture, and minimalistic decor. She is either in conversation with team members or reviewing documents, conveying professionalism and focus. The background shows a dynamic, inclusive team in a collaborative setting, contributing to a productive atmosphere.",
     "filename": "/generated/image-a-professional-asian-woman-dressed-in-el.webp"
+=======
+    "prompt": "A lively office environment where a diverse group of professionals collaborate around a central table, exchanging ideas and documents, with open pathways connecting smaller groups throughout the space. Warm natural lighting, modern furniture, and green plants create an inviting atmosphere.",
+    "filename": "/generated/image-a-lively-office-environment-where-a-dive.webp"
+  },
+  {
+    "prompt": "A thoughtful team of analysts in a bright, modern workspace, reviewing printed charts and discussing trends. Papers, notebooks, and coffee mugs are scattered on the table, with a whiteboard in the background filled with colorful diagrams. Lush plants add a touch of nature to the setting.",
+    "filename": "/generated/image-a-thoughtful-team-of-analysts-in-a-brigh.webp"
+  },
+  {
+    "prompt": "A contemporary office scene showing several employees moving efficiently between different meeting areas, guiding visitors and conversing in pairs and small groups. The space features glass partitions, comfortable seating, and visible pathways connecting zones.",
+    "filename": "/generated/image-a-contemporary-office-scene-showing-seve.webp"
+  },
+  {
+    "prompt": "A group of professionals gathered around a large table, studying printed performance reports and discussing results. Natural sunlight streams through large windows, and the room features modern decor, indoor plants, and a collaborative, energetic mood.",
+    "filename": "/generated/image-a-group-of-professionals-gathered-around.webp"
+  },
+  {
+    "prompt": "A clean, organized workspace where a focused agent assists a customer face-to-face, with notebooks, pens, and a cup of coffee on the desk. The minimalist setup includes ergonomic chairs, soft lighting, and calming colors, fostering concentration and ease.",
+    "filename": "/generated/image-a-clean-organized-workspace-where-a-focu.webp"
+  },
+  {
+    "prompt": "A secure office environment with a vigilant security professional monitoring access points, greeting visitors, and ensuring a safe atmosphere. The setting includes visible ID badges, sturdy doors, and friendly interactions, with a blend of natural and artificial light.",
+    "filename": "/generated/image-a-secure-office-environment-with-a-vigil.webp"
+  },
+  {
+    "prompt": "A professional team of diverse adults collaborating around a table in a modern, well-lit office environment. The workspace features comfortable seating, indoor plants, and large windows letting in natural light. Team members are engaged in discussion, referencing papers and notebooks, with relaxed and friendly body language. The setting is tidy, inviting, and has a contemporary design with subtle, varied details in furniture and decor.",
+    "filename": "/generated/image-a-professional-team-of-diverse-adults-co.webp"
+  },
+  {
+    "prompt": "A professional contact center agent, dressed in business casual attire, smiling warmly and confidently while assisting a customer. The setting is a bright, modern office environment with natural light, comfortable seating, and subtle greenery in the background. The composition features friendly, engaged body language and a welcoming atmosphere. No technology, screens, or text present.",
+    "filename": "/generated/image-a-professional-contact-center-agent-dres.webp"
+>>>>>>> 84158a742ba02d6eeae69758a88fd9ad958cba33
   }
 ]

@@ -55,58 +55,75 @@
 	title="One platform. Every conversation."
 	text="Nextiva brings all your customer interactions into a single AI-powered workspace—so agents stop switching tabs and start solving problems.
 
+<<<<<<< HEAD
 Turn chaos into clarity. Phone, chat, email, and SMS all in one place. No more juggling tools or repeating questions. Just smooth, consistent customer experiences that reduce costs and raise satisfaction."
+=======
+Turn chaos into clarity. Phone, chat, email, and SMS all in one place. No more juggling tools or repeating questions. Just smooth, consistent customer experiences every time."
+>>>>>>> 84158a742ba02d6eeae69758a88fd9ad958cba33
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Yasmin Okafor",
+			position: "Director of Customer Operations",
+			company: "HealthBridge",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"With Nextiva, we reduced agent ramp time by 40%. Everything they need is finally in one place.",
+			image: "/generated/image-professional-african-businesswoman-stand.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Kai Nakamura",
+			position: "VP Contact Center Technology",
+			company: "ArcherPay",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Migrating from five disconnected systems to Nextiva cut our monthly costs by $22,000 and gave us better reporting than we ever had.",
+			image: "/generated/image-japanese-business-executive-male-seated-.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Lina Torres",
+			position: "Customer Experience Lead",
+			company: "Montera Travel",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Our CSAT jumped 18% after switching to Nextiva. Customers don't have to repeat themselves anymore. That alone made the shift worth it.",
+			image: "/generated/image-latina-business-professional-woman-in-a-.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Unified customer experience platform"
+	subtitle="Transform fragmented contact centers into efficient, AI-powered operations that deliver exceptional customer experiences while reducing costs."
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Unified communications hub",
+			description: "Consolidate all customer touchpoints—voice, chat, email, social—into one intelligent platform that eliminates agent confusion and reduces response times by 45%.",
+			imageSrc: "/generated/image-a-lively-office-environment-where-a-dive.webp"
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "AI-powered customer intelligence",
+			description: "Transform every interaction into actionable insights with real-time sentiment analysis and predictive routing that increases first-call resolution rates.",
+			imageSrc: "/generated/image-a-thoughtful-team-of-analysts-in-a-brigh.webp"
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Intelligent multi-channel routing",
+			description: "Automatically connect customers to the right agent with the right skills through advanced algorithms that optimize for both efficiency and satisfaction.",
+			imageSrc: "/generated/image-a-contemporary-office-scene-showing-seve.webp"
+		},
+		{
+			title: "Real-time performance analytics",
+			description: "Monitor contact center KPIs with executive dashboards that provide instant visibility into agent productivity and customer satisfaction trends.",
+			imageSrc: "/generated/image-a-group-of-professionals-gathered-around.webp"
+		},
+		{
+			title: "Streamlined agent experience",
+			description: "Empower your team with an intuitive workspace that surfaces customer context and next-best actions, reducing training time by 60%.",
+			imageSrc: "/generated/image-a-clean-organized-workspace-where-a-focu.webp"
+		},
+		{
+			title: "Enterprise security & compliance",
+			description: "Maintain the highest security standards with end-to-end encryption, SOC 2 compliance, and automated data governance that keeps your business protected.",
+			imageSrc: "/generated/image-a-secure-office-environment-with-a-vigil.webp"
 		}
 	]}
 />

@@ -52,9 +52,10 @@
 />
 
 <Summary
-	generating
-	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	title="One platform. Every conversation."
+	text="Nextiva brings all your customer interactions into a single AI-powered workspace—so agents stop switching tabs and start solving problems.
+
+Turn chaos into clarity. Phone, chat, email, and SMS all in one place. No more juggling tools or repeating questions. Just smooth, consistent customer experiences that reduce costs and raise satisfaction."
 />
 
 <Testimonials

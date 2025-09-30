@@ -1,7 +1,7 @@
 export const CONFIG = {
-	companyName: "Company",
-	description: "Description",
+	companyName: "Nextiva",
+	description: "Transform fragmented customer interactions into unified experiences with our AI-powered communication platform that consolidates all channels into one solution.",
 	image: "/og.png",
-	url: "https://example.com",
+	url: "https://nextiva.com",
 	fontFamily: "Inter Variable"
 };
